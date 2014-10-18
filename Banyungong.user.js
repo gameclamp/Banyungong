@@ -2,6 +2,7 @@
 // @name        Banyungong
 // @namespace   http://
 // @include     http://banyungong.net/*
+// @updateURL   https://github.com/gameclamp/Banyungong/raw/master/Banyungong.user.js
 // @version     1
 // @grant       none
 // ==/UserScript==
